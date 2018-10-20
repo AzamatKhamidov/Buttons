@@ -1,3 +1,1 @@
 # Buttons
-
-Hover effects
